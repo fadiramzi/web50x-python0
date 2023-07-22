@@ -7,7 +7,7 @@ for x in names:
 names.append('Fadi')
 print(names)
 
-names.remove('Ali')
+names.remove('Fadi')
 
 print(names)
 
