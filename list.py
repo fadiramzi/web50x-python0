@@ -12,4 +12,5 @@ names.remove('Ali')
 print(names)
 
 names.sort()
+
 print(names)
