@@ -2,9 +2,11 @@ def square(x):
     print(x * x)
 
 
-square(10)
+square(15)
 
-def fruits(*f):
-    print(f[0])
+def fruits(*s):
+    print(s[0])
+
+
 
 
